@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/airbnb-3384008_960_720%5B1%5D.png
 title: AirBnb Scrapper
 permalink: projects/airbnb
 # All dates must be YYYY-MM-DD format!
