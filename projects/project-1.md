@@ -14,7 +14,7 @@ summary: As a part of an AI project, the scrapper collected rental estate featur
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/airbnb-3384008_960_720%5B1%5D.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
