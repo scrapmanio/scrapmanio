@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Scrapman.io",
+    "label": "Tailor-made scripts to extract data online&offline targets",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "vstanbol@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://scrapman.io",
+    "summary": "Scrapman provides data from various websites such as product, price, personal information and more...",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "scrapmanio",
+        "url": "http://github.com/scrapmanio"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "scrapmanio",
+        "url": "http://twitter.com/scrapmanio"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "scrapmanio",
+        "url": "http://instagram.com/scrapmanio"
       }
     ]
   },
@@ -61,12 +56,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "C#",
+        "Selenium",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Chrome Extensions",
+        "TypeScript"
       ]
     },
     {
@@ -81,29 +75,17 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Scrapman.io",
+      "position": "Web, Console, Cloud and Desktop Scrappers & Scripts Developer",
+      "website": "scrapman.io",
+      "startDate": "2009-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Data you need from any website",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "1000+ different website scrapped",
+        "Various technologies used for different cases"
       ]
     },
     {
