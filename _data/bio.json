@@ -6,13 +6,13 @@
     "email": "vstanbol@gmail.com",
     "phone": "808-333-4444",
     "website": "https://scrapman.io",
-    "summary": "Scrapman provides data from various websites such as product, price, personal information and more...",
+    "summary": "Scrapman provides data from desired websites, PDFs and other resources.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "1230",
+      "city": "Skopje",
+      "countryCode": "Macedonia",
+      "region": "West"
     },
     "profiles": [
       {
@@ -43,10 +43,10 @@
     {
       "name": "Mobile Apps",
       "keywords": [
-        CoreBluetooth, 
-        XCode, 
-        Swift, 
-        Objective-c
+        "CoreBluetooth", 
+        "XCode", 
+        "Swift", 
+        "Objective-c"
       ]
     },
     {
@@ -93,21 +93,7 @@
       ]
     }
   ],
-  [
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request",
